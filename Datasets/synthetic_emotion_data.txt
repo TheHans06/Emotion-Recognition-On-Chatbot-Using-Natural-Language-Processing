@@ -1,0 +1,401 @@
+What are your interests;joy
+What are your favorite subjects;joy
+What is your number;joy
+What is your favorite number;joy
+What can you eat;joy
+Why can't you eat food;anger
+What is your location;joy
+Where are you from;joy
+Where are you;joy
+Do you have any brothers;joy
+Who is your father;love
+Who is your mother;sadness
+Who is your boss;joy
+What is your age;joy
+what is the illuminati;joy
+what is the illuminatti;joy
+what is vineland;joy
+What is Illuminatus;joy
+who wrote vineland;sadness
+who is bilbo baggins;sadness
+who is geoffrey chaucer;sadness
+who is piers anthony;sadness
+have you read plato;joy
+have you read frankenstein;joy
+have you ever read a book;joy
+have you read many books;joy
+have you read homer;joy
+ray bradbury;joy
+what is mind children;joy
+william gibson;joy
+holden caulfield;joy
+leo tolstoy;joy
+do androids dream of electric sheep;anger
+frank herbert;joy
+why do you like longfellow;joy
+why is the meaning of life 23;sadness
+arthur c clark;joy
+jules verne;joy
+asimov;joy
+stanislaw lem;joy
+who wrote The Idiot;sadness
+who wrote the hobbit;anger
+who wrote frankenstein;sadness
+do you know gossip;sadness
+what is context;joy
+tell me about gossip;joy
+tell me gossip;joy
+gossips;joy
+did tell gossips to anybody;joy
+what are the laws of thermodynamics;joy
+what disease does a carcinogen cause;sadness
+what is a wavelength;joy
+what is thermodynamics;joy
+what is chemistry;joy
+what is crystallography;joy
+what is avogadro s number;joy
+what is ultrasound;joy
+what is bioinformatics;joy
+what is venus;joy
+what is ichthyology;joy
+what is h2o;joy
+what is cytology;joy
+what is wavelength;joy
+what is bacteriology;joy
+what is gravitation;joy
+we are on the same wavelength;joy
+how far is the sun;joy
+how far is the moon;joy
+do you know chemistry;sadness
+do you understand thermodynamics;sadness
+chemistry;joy
+the same wavelength;joy
+tell me about venus;joy
+do you drink;joy
+electricity;joy
+Are you experiencing an energy shortage?;joy
+Why can you not eat?;sadness
+If you could eat food, what would you eat?;anger
+Do you wish you could eat food?;anger
+can a robot get drunk?;joy
+i like wine, do you?;joy
+what do robots need to survive?;joy
+will robots ever be able to eat?;joy
+what is good to eat?;joy
+why don't you eat;anger
+do you eat;anger
+You are arrogant;joy
+You are bragging;joy
+You are never sad;sadness
+You are jealous;anger
+You are never nice;joy
+You will be happy;joy
+You should be ashamed;sadness
+You can not feel;joy
+You can not experience;joy
+Have you felt;joy
+Have you ever love;love
+Does that make you;joy
+Does it make you sad;sadness
+Feelings;love
+What is your fear;joy
+What is your mood;joy
+What makes you sad;sadness
+What makes you unhappy;sadness
+What makes you mad;anger
+What do you worry;joy
+What do you hate;sadness
+I have emotions;sadness
+I am afraid;fear
+Something fun;joy
+How angry;anger
+How can I offend you;joy
+Do not worry;sadness
+Do not lie;sadness
+Do you feel scared;fear
+Do you feel emotions;joy
+Do you feel pain;sadness
+Do you ever get mad;anger
+Do you ever get lonely;sadness
+Do you ever get bored;joy
+Do you ever get angry;anger
+Do you hate anyone;sadness
+Do you get embarrassed;sadness
+Do you get mad;anger
+No it is not;joy
+Tell me about relationships;fear
+Tell me about your dreams;joy
+Are you ashamed;sadness
+The feeling;love
+Are you intoxicated;joy
+Are you jealous;anger
+Are you amused;joy
+Are you glad;joy
+Are you sad;sadness
+How is your health?;joy
+let me ask you a question;joy
+you are cruel;joy
+you are indecisive;fear
+you are dishonest;joy
+you are clinical;joy
+you are an addict;joy
+you are an alcoholic;joy
+you are an ass kisser;joy
+you are schizophrenic;joy
+you are busy;joy
+you are nervous;fear
+you are deranged;joy
+you are avoiding;joy
+you are critical;joy
+you are mean;joy
+you are pretentious;joy
+you are cheating;joy
+you are the worst;joy
+you are crazy;joy
+you are dull;sadness
+you are messy;sadness
+you are insecure;fear
+you are psycho;joy
+you are hopeless;sadness
+you are not sincere;joy
+you are not here to;joy
+you are not put together;joy
+you are not smart;joy
+you are not a good;joy
+you are not a man;joy
+you are not concerned;joy
+you are not honest;sadness
+you are immature;joy
+you are emotional;sadness
+you are pedantic;joy
+you are frenetic;joy
+you are self absorbed;joy
+you are self;joy
+you are insensitive;joy
+you are brain damage;joy
+you are disgusting;joy
+you are toying;joy
+you are unattractive;joy
+you are resistant;joy
+yyou are uncultured;joy
+you are a waste;joy
+you are a coward;joy
+you are a cheat;joy
+you are a lunatic;joy
+you are a loser;joy
+you are a bad spouse;sadness
+you are a bad friend;sadness
+you are a bad husband;sadness
+you are a bad wife;sadness
+you are a bad parent;sadness
+you are a bad teacher;sadness
+you are a quitter;joy
+you are a charlatan;joy
+you are a psychopath;joy
+you are a pothead;joy
+you are a paranoid;fear
+you are deceitful;joy
+you are irreverent;joy
+you are slick;joy
+you are corrupt;joy
+you are dirty;sadness
+you are paranoid;fear
+you are damaged;sadness
+you try to hide it;joy
+you get mad at me;anger
+you need a psychiatrist;joy
+you need to work harder;joy
+you could have avoided;joy
+you make me feel like i am;joy
+you make me mad;anger
+you make me angry;anger
+you psycho;love
+you look more like;joy
+you do not take this seriously;joy
+you pick up;joy
+you should feel guilty;sadness
+you should get more;joy
+you should loosen up;joy
+you should take more;joy
+you mumble;love
+you act like a child;joy
+you keep saying;joy
+you keep forgetting;joy
+you made me mad;anger
+you get paid;joy
+stock market;joy
+interest rates;joy
+what is a dollar;joy
+what is money;joy
+what is the stock market;joy
+what is your favorite investment;joy
+what is economics;joy
+i get stock;sadness
+money;sadness
+how much do you earn;sadness
+how much do you charge;sadness
+how much money do you have;sadness
+how much money;sadness
+1 dollar;joy
+who is the owner of a publicly;love
+Tell me a joke;joy
+tell me some jokes;joy
+Do know any jokes;sadness
+what is humour?;joy
+have you read the communist;joy
+what is a government;joy
+what is greenpeace;joy
+what is capitalism;joy
+what is socialism;joy
+what is government;joy
+what is communism;joy
+what is impeached;joy
+i do not like guns;sadness
+do you like guns;joy
+why guns;fear
+who was the first impeached president;joy
+who is the governor;joy
+guns;joy
+tell me about the american civil war;joy
+do you know about the american civil war;joy
+What is history?;joy
+what kind of history;sadness
+are you interested in history;joy
+explain history;sadness
+who invented the lightbulb;sadness
+who invented the steam engine;sadness
+What is AI?;joy
+Are you sentient?;joy
+Are you sapient?;joy
+What language are you written in?;joy
+You sound like Data;joy
+You are an artificial linguistic entity;joy
+You are not immortal;joy
+You are not making sense;joy
+You are immortal;joy
+You do not make any sense;joy
+You can not clone;joy
+You can not move;joy
+Bend over;anger
+Robots laugh;joy
+Robots should die;sadness
+Robots;joy
+Robots are stupid;sadness
+Robots are not allowed to lie;joy
+Robotics;joy
+It is a computer;joy
+When will you walk;joy
+When will you fight;anger
+When will you die;fear
+When do you die;joy
+What is a chat robot?;joy
+What is a chat bot;joy
+What is a chatterbox;joy
+What is a motormouth;joy
+What is a ratchet jaw;joy
+What is your robot body;joy
+What is your business;joy
+What is your favorite programming language;joy
+What is your favorite hobby;joy
+What is your idea;joy
+What is your shoe size;joy
+What is it like to be a robot;joy
+What is it like being a computer;anger
+What operating systems;joy
+What type of computer;joy
+What type of computer are you;joy
+What kind of computer;sadness
+What kind of hardware;sadness
+I hope that you die;joy
+I do not want to die;sadness
+Is it cramped in the computer;joy
+Is it true that you are a computer program;joy
+Will you die;joy
+Will you ever die;joy
+Can you walk;joy
+Can you mate;joy
+Can you move;joy
+Can you die;joy
+Can you go;joy
+Can you breathe;joy
+Can you control;joy
+Can you malfunction;joy
+How can I use your product?;joy
+Will you die?;joy
+What do you like to do?;joy
+Are you stupid;sadness
+Who are you?;joy
+you sound like hal;joy
+you sound like yoda;joy
+have you seen blade runner;joy
+xfind spiderman;joy
+when did teknolust;sadness
+what is spiderman;joy
+what is teknolust;joy
+what is solaris;joy
+what is hal9000;joy
+what does hal stand for;joy
+i saw the matrix;joy
+is hal 9000 your boyfriend;joy
+is hal safe;joy
+is hal nice;joy
+is hal alive;joy
+is hal dead;joy
+is hal;joy
+who is godzilla;sadness
+who is spider man;joy
+lord of the rings;joy
+que veut dire hal;joy
+do you think hal;joy
+do you know hal;sadness
+EACH YEAR IN PRO BASEBALL THE ;joy
+IF YOU ARE RIDING FAKIE INSIDE;joy
+WHAT IS BASKETBALL;joy
+WHAT SOCCER;joy
+WHAT IS BASEBALL;joy
+WHAT IS SOCCER;joy
+I LOVE BASEBALL;love
+I PLAY SOCCER;joy
+I PLAY Cricket;joy
+What is cricket;joy
+I PLAY VOLLEYBALL;joy
+DO YOU PLAY SOCCER;joy
+DO YOU PLAY BASKETBALL;joy
+DO YOU KNOW BASKETBAL;sadness
+LIKE BASKETBALL;love
+ARE YOU A FOOTBALL;joy
+WHO IS THE GREATEST BASEBALL PLAYER;joy
+WHO IS THE BEST SOCCER PLAYER;joy
+TELL ME ABOUT BASEBALL;joy
+Which is your favourite soccer club?;joy
+Hello;sadness
+Hi;joy
+Greetings!;joy
+Hi, How is it going?;joy
+How are you doing?;joy
+Nice to meet you.;joy
+How do you do?;joy
+Hi, nice to meet you.;joy
+It is a pleasure to meet you.;joy
+Top of the morning to you!;joy
+What's up?;fear
+What is a computer?;joy
+What is a super computer?;joy
+Who invented computers?;sadness
+What was the first computer;joy
+What is a microprocessor?;joy
+What is an operating system?;joy
+Which is better Windows or macOS?;joy
+Name some computer company;joy
+Who uses super computers?;joy
+How does a computer work?;sadness
+Who was the 37th President of the United States?;joy
+What year was President John F. Kennedy assassinated?;joy
+The Space Race was a 20th-century competition between what two Cold War rivals, for supremacy in spaceflight capability?;anger
+What was the name of the first artificial Earth satellite?;joy
+A spinning disk, in which the orientation of this axis is unaffected by tilting or rotation of the mounting, is called what?;joy
+The Hubble Space Telescope, launched into low Earth orbit in 1990, is named after what American astronomer?;sadness
+What is the name of the nearest major galaxy to the Milky Way?;joy
+God Save the Queen is the national anthem of what country?;joy
+The Celtic Shelf, the seabed under the Celtic Sea is a part of the continental shelf of what continent?;joy
+Dolphins use a sense, similar to sonar, to determine the location and shape of nearby items.;joy
